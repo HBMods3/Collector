@@ -1,0 +1,6 @@
+{
+  "name": "SLR Note Bu",
+  "description": "GitHub-powered multi-shop sales, customer Ba Bu credit ledger, accounting, monthly archive, and automatic backup application.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

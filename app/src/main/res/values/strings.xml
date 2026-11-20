@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">SLR Note Bu</string>
+    <string name="nav_home">Home</string>
+    <string name="nav_daily_sale">Daily Sale</string>
+    <string name="nav_babu">Ba Bu</string>
+    <string name="nav_reports">Reports</string>
+    <string name="nav_settings">Settings</string>
+    <string name="daily_sale_title">Daily Sale – Hralhna Chhinchhiahna</string>
+    <string name="babu_title">Ba Bu – Customer Credit</string>
+    <string name="sms_reminder_chooser">Send SMS Reminder</string>
+</resources>
